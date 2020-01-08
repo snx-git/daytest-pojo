@@ -7,7 +7,7 @@ import java.util.List;
  *
  */
 public class PageResult implements Serializable{
-	private long total;//总记录数
+	private long total;//总记录数   总记录数
 	private List rows;//当前页结果		
 	public PageResult(long total, List rows) {
 		super();
