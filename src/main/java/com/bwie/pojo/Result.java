@@ -1,7 +1,7 @@
 package com.bwie.pojo;
 import java.io.Serializable;
 /**
- * 返回结果封装
+ * 返回结果封装 bbbbb
  * @author Administrator
  *
  */
